@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.ecommerce_major_project.app-mergeDebugResources-28:/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\shahz\\.gradle\\caches\\transforms-3\\36ea39d0c78c3d8418928d6c2bbf614a\\transformed\\jetified-checkout-1.6.36\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,93",
+                        "endLines": "2,13",
+                        "endColumns": "37,12",
+                        "endOffsets": "88,745"
+                    }
+                }
+            ]
+        }
+    ]
+}
